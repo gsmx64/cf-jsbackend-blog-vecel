@@ -1,0 +1,1 @@
+{"version":3,"file":"search.categories.js","sourceRoot":"","sources":["../../../src/search/filters/search.categories.ts"],"names":[],"mappings":";;;AAEA,kFAAsF;AAEtF,mEAAgE;AAMnD,QAAA,wBAAwB,GAAqC;IACtE,GAAG,4CAAwB;IAC3B,iBAAiB,EAAE,CAAC,OAAO,EAAE,aAAa,CAAC;CAC9C,CAAC;AAKW,QAAA,4BAA4B,GAAqC;IAC1E,GAAG,gCAAwB;IAC3B,KAAK,EAAE,EAAE,MAAM,EAAE,+BAAc,CAAC,SAAS,EAAE;CAC9C,CAAC"}
